@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 027f9baf972c674469d975c23becb7a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - LowPasFilter: {instanceID: 0}
+  - playerDieClip: {fileID: 8300000, guid: 53bcf7578244b134c8bb4aa8aa2e2d46, type: 3}
+  - rechargeClip: {fileID: 8300000, guid: d8ca3db92162ce0418b7c1fec03bf114, type: 3}
+  - bulletHit: {fileID: 8300000, guid: 249a0938465cbcc428394361a7b884ed, type: 3}
+  - emptyAmmo: {fileID: 8300000, guid: f76a2ec334a2a584ba6e83cbbacdf9d8, type: 3}
+  - groundHit: {fileID: 8300000, guid: 5ff7f63ef171cfc4599753face20b916, type: 3}
+  - coinHit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
